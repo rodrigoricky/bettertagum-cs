@@ -1,0 +1,15 @@
+{
+  "name": "bettertagum-coming-soon",
+  "version": "1.0.0",
+  "description": "Professional coming soon page for BetterTagum.gov",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^5.0.11"
+  },
+  "dependencies": {}
+}
